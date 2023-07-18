@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: demoappacrrepo1304.azurecr.io/demoappacrrepo1304
+  repository: demoappacrrepo1304.azurecr.io/baze1304/docker-spring-boot
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
